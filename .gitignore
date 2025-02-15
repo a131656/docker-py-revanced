@@ -1,9 +1,13 @@
 *.apk
 *.jar
 *.keystore
-venv
-*/__pycache__*
+*venv
 *.pyc
-/revanced-cache/
+**cache**
 changelog.md
 .idea
+*.json
+status.md
+*.zip
+apks/*
+*.rvp
